@@ -1,0 +1,1 @@
+This is a schema json to be tested with Skohub editor
