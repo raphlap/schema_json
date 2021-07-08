@@ -38,7 +38,7 @@
       "$ref": "https://dini-ag-kim.github.io/lrmi-profile/draft/schemas/description.json"
     },
     "about": {
-      "$ref": "https://dini-ag-kim.github.io/lrmi-profile/draft/schemas/about.json"
+      "$ref": "https://raw.githubusercontent.com/raphlap/schema_json/main/about.json"
     },
     "license": {
       "$ref": "https://dini-ag-kim.github.io/lrmi-profile/draft/schemas/license.json"
