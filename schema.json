@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://dini-ag-kim.github.io/lrmi-profile/draft/schemas/schema.json",
-  "title": "OER",
-  "description": "This is a generic JSON schema for describing an Open Educational Resource with schema.org",
+  "title": "TSO",
+  "description": "This is a generic JSON schema for describing an Open Science Resource with schema.org",
   "type": "object",
   "default": {
     "@context": [
