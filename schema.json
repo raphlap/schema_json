@@ -16,6 +16,9 @@
     ]
   },
   "properties": {
+    "@context": {
+      "$ref": "https://skohub-io.github.io/metadata-profiles/lrmi-profile/context-schema.json"
+    },
     "id": {
       "$ref": "https://skohub-io.github.io/metadata-profiles/lrmi-profile/id.json"
     },
