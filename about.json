@@ -16,7 +16,6 @@
       "id": {
         "type": "string",
         "format": "uri",
-        "pattern": "^https:\/\/w3id.org\/kim\/hochschulfaechersystematik\/.*"
         "pattern": "^https:\/\/w3id.org\/67375\/TSO\/.*"
       },
       "inScheme": {
